@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left"   style="display: flex; gap: 10px; flex-wrap: wrap;" >
+<p align="left"   style="display: flex; gap: 30px; flex-wrap: wrap;" >
   <!-- Frontend -->
   <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"   />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
