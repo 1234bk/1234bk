@@ -2,16 +2,12 @@
 
 > 🚀 Full‑Stack (MERN) Developer · 💡 I build practical, production‑ready apps
 
----
 
-<!-- 🔧 QUICK LINKS (edit usernames/links) -->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel\&logoColor=white)](https://brijesh-portfolio6514.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brijesh-kumar123/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=white)](https://leetcode.com/u/brijeshkumar_1234/)
 [![Email](https://img.shields.io/badge/Email-Dev?logo=gmail\&logoColor=white\&color=D14836)](mailto:brijesh6514@gmail.com)
-
----
 
 
 
@@ -52,7 +48,7 @@
 
 ## 🤝 Connect
 
-* 💼 LinkedIn: brijesh-kumar123
+* 💼 LinkedIn: https://www.linkedin.com/in/brijesh-kumar123/
 * 🌐 Portfolio: https://brijesh-portfolio6514.vercel.app/
 * ✉️ Email: [your.email@example.com](mailto:brijesh6514@gmail.com)
 
